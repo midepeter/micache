@@ -1,4 +1,4 @@
-pacakge main
+pacakge micache
 
 import (
 	"testing"
@@ -18,3 +18,5 @@ func TestDelete(t *testing.T){
 func TestUser_RegisterWithEmailLogin() {
 
 }
+
+func Allow_hi
